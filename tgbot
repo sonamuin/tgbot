@@ -185,14 +185,14 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "1e2bcce2-3b2c-4247-808c-c56dd1585c58",
+   "id": "1124",
    "metadata": {
     "tags": []
    },
    "outputs": [],
    "source": [
     "def send_telegram(text: str):\n",
-    "    token = \"7433467347:AAFy3tfbJMXrYWKoQ5_Lz44_-TieuceSDGM\"\n",
+    "    token = \"1233\"\n",
     "    url = \"https://api.telegram.org/bot\"\n",
     "    channel_id = \"-1002241832528\"\n",
     "    url += token\n",
@@ -210,7 +210,7 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "ffe7cb33-c412-42d0-b531-d812f582884e",
+   "id": "343454",
    "metadata": {
     "tags": []
    },
